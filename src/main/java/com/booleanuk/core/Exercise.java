@@ -50,8 +50,6 @@ public class Exercise {
         for (int i =0; i < info.length; i++){
             sb.append(info[i]+" ");
         }
-
-
         return sb.toString();
     }
 
